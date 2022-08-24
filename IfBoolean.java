@@ -1,6 +1,6 @@
 public class IfBoolean {
     public static void main(String[] args){
-        boolean learning = false;
+        boolean learning = true;
         if(learning)
            System.out.println("I am a java programmer");
         else   
